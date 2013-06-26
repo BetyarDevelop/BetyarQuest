@@ -1,0 +1,6 @@
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\bin\x86\Debug\BetyarQuest.exe
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\bin\x86\Debug\BetyarQuest.pdb
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\obj\x86\Debug\BetyarQuest.exe
+C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\BetyarQuest\BetyarQuest\obj\x86\Debug\BetyarQuest.pdb

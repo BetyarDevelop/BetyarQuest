@@ -20,5 +20,23 @@ namespace MapEditor
         {
 
         }
+
+        // Menü eseményvezérlők
+        private void MenuFileExit_Click(object sender, EventArgs e) { Close(); }
+
+        private void MenuFileNew_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void MenuFileLoad_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.ShowDialog();
+        }
+
+        private void MenuFileSave_Click(object sender, EventArgs e)
+        {
+            saveFileDialog1.ShowDialog();
+        }
+
     }
 }

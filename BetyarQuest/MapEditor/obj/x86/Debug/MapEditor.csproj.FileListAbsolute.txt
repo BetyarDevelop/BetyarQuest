@@ -1,9 +1,0 @@
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\bin\Debug\MapEditor.exe
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\bin\Debug\MapEditor.pdb
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\MapEditor.EditorForm.resources
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\MapEditor.exe
-C:\Users\badar\Documents\GitHub\BetyarQuest\BetyarQuest\MapEditor\obj\x86\Debug\MapEditor.pdb
